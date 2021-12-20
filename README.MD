@@ -1,6 +1,6 @@
 # Layout Sample Project
 
-**[Site link](https://rick-jackson.github.io/model-website/)**
+**[Site link](https://rick-jackson.github.io/model-price-card/)**
 
 Layout supports mobile (up-to-400) and desktop (up-to-1360) versions
 
